@@ -30,7 +30,7 @@ else if(isVacation==0 && isWeekday==1) {
 	  JOptionPane.showMessageDialog(null, "Sleep in then.");	  
   }
 else if(isVacation==1 && isWeekday==1) {
-	  JOptionPane.showMessageDialog(null, "WAIT WHAT!?");
+	  JOptionPane.showMessageDialog(null, "uhhhhhhhh");
   }
 
 
